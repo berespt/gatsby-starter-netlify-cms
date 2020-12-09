@@ -3,7 +3,7 @@ templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
 heading: Just a great coffee
-subheading: Support sustainable farming while enjoying a cup
+subheading: Support sustainable farming while enjoying a cup of black joe
 mainpitch:
   title: Why Kaldi
   description: >
